@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pawel</h1>
 <h3 align="center">A novice developer from France !</h3>
 
-- 🔭 I’m currently working on [Option Musique](https://optionmusique-freppel.fr)
+- 🔭 I’m currently working on [About Me]()
 
 - 📫 How to reach me **cours.pawelfila@gmail.com**
 
